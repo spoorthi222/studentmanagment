@@ -92,7 +92,7 @@ void display_total_filled_seats(){
 	 }
 	 else{
 	 	printf("PLEASE ENTER CORRECT PROGRAM NAME");
-	 }
+	 } 
 
  }
 
